@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 26074b15f9c13404d858bfedb8b8c00c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - FirstPersonCamera: {instanceID: 0}
+  - DetectedPlanePrefab: {fileID: 1372998203143648, guid: f879aaf3eeb0c467eb22cbaf08dc97a4,
+      type: 2}
+  - AndyPlanePrefab: {fileID: 1372998203143648, guid: f879aaf3eeb0c467eb22cbaf08dc97a4,
+      type: 2}
+  - AndyPointPrefab: {fileID: 100000, guid: 0705906c3356b1a48a7469e05dfaba4f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
